@@ -1,4 +1,5 @@
 Totally Versatile Miscellania for PyTorch
+
 *Thomas Viehmann* <tv@lernapparat.de>
 
 - [2d Wavelet Transformation using PyTorch convolutions and coefficents from PyWavelet](misc/2D-Wavelet-Transform.ipynb)

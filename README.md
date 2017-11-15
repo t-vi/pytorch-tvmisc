@@ -17,7 +17,7 @@ This repository collects various things I have implmented for PyTorch
 
 ## Generative Adversarial Networks
 
-Wasserstein GAN - See also my two (blog)[http://lernapparat.de/improved-wasserstein-gan/] [posts](http://lernapparat.de/more-improved-wgan/)
+Wasserstein GAN - See also my two [blog](http://lernapparat.de/improved-wasserstein-gan/) [posts](http://lernapparat.de/more-improved-wgan/)
 on the subject
 
 - [Semi-Improved Training of Wasserstein GAN](wasserstein-distance/Semi-Improved_Training_of_Wasserstein_GAN.ipynb)

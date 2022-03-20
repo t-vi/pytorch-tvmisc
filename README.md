@@ -4,7 +4,7 @@
 
 This repository collects various things I have implmented for PyTorch
 
-## Layers, autogra functions and calculations
+## Layers, autograd functions and calculations
 
 - [2d Wavelet Transformation using PyTorch convolutions and coefficents from PyWavelet](misc/2D-Wavelet-Transform.ipynb)
 - [Implicit Function Theorem and Implicit Functions in PyTorch](misc/Implicit_Functions_Pytorch.ipynb)
